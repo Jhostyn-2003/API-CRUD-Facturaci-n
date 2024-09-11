@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\models\\gavilanezjfacturaexmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\models\\gavilanezjfacturaexmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\controllers\\detallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\controllers\\detallescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\controllers\\cabecerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\controllers\\cabecerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\models\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\dtos\\detallesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\dtos\\detallesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\dtos\\cabecerasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\dtos\\cabecerasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\dtos\\productosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\dtos\\productosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\models\\cabecera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\models\\cabecera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\filters\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\filters\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|c:\\users\\user\\source\\repos\\gavilanezjhostyn_examenu1-as\\gavilanezjhostyn_examenu1-as\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474E7C3-22EB-4E56-9D46-216D8EE81A04}|GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj|solutionrelative:gavilanezjhostyn_examenu1-as\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CabecerasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Controllers\\CabecerasController.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Controllers\\CabecerasController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Controllers\\CabecerasController.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Controllers\\CabecerasController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAA8wGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:03:53.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:14:35.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Program.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Program.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:42:43.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\appsettings.json",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\appsettings.json",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T12:54:49.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Models\\Detalle.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Models\\Detalle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Models\\Detalle.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Models\\Detalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:52:13.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GavilanezJFacturaExmContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Models\\GavilanezJFacturaExmContext.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Models\\GavilanezJFacturaExmContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Models\\GavilanezJFacturaExmContext.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Models\\GavilanezJFacturaExmContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:50:51.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Controllers\\FacturasController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwEkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:30:43.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetallesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Controllers\\DetallesController.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Controllers\\DetallesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Controllers\\DetallesController.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Controllers\\DetallesController.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAA8wKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:05:31.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetallesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\DTOs\\DetallesDTO.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\DTOs\\DetallesDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\DTOs\\DetallesDTO.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\DTOs\\DetallesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:09:18.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAA8wGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:04:48.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\DTOs\\ProductosDTO.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\DTOs\\ProductosDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\DTOs\\ProductosDTO.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\DTOs\\ProductosDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:09:00.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CabecerasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\DTOs\\CabecerasDTO.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\DTOs\\CabecerasDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\DTOs\\CabecerasDTO.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\DTOs\\CabecerasDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:08:05.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GavilanezJhostyn_ExamenU1-AS.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T13:06:51.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cabecera.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Models\\Cabecera.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Models\\Cabecera.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Models\\Cabecera.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Models\\Cabecera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:52:11.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Filters\\GlobalExceptionFilter.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Filters\\GlobalExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Filters\\GlobalExceptionFilter.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Filters\\GlobalExceptionFilter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:59:47.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "GavilanezJhostyn_ExamenU1-AS\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GavilanezJhostyn_ExamenU1-AS\\GavilanezJhostyn_ExamenU1-AS\\Models\\Producto.cs",
+              "RelativeToolTip": "GavilanezJhostyn_ExamenU1-AS\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:52:15.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

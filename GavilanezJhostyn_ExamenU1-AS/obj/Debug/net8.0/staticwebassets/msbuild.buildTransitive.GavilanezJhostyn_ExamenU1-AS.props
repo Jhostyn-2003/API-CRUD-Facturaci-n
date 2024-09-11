@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GavilanezJhostyn_ExamenU1-AS.props" />
+</Project>

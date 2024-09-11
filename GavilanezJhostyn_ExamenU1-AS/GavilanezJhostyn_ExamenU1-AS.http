@@ -1,0 +1,6 @@
+@GavilanezJhostyn_ExamenU1_AS_HostAddress = http://localhost:5010
+
+GET {{GavilanezJhostyn_ExamenU1_AS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
